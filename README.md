@@ -44,18 +44,18 @@ This project implements a Dueling Deep Q-Network (DQN) for algorithmic trading, 
 <table>
   <tr>
     <td>
-      <img src="Outputs/sharpe_ratio.png" alt="Setup" width="400"/>
+      <img src="output/sharpe_ratio.png" alt="Setup" width="400"/>
     </td>
     <td>
-      <img src="Outputs/equity_curve.png" alt="Setup" width="400"/>
+      <img src="output/equity_curve.png" alt="Setup" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="Outputs/price_curve.png" alt="Setup" width="400"/>
+      <img src="output/price_curve.png" alt="Setup" width="400"/>
     </td>
     <td>
-      <img src="Outputs/model_comp.png" alt="Setup" width="400"/>
+      <img src="output/model_comp.png" alt="Setup" width="400"/>
     </td>
   </tr>
 </table>
